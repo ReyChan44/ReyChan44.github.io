@@ -39,7 +39,7 @@ text-shadow: var(--shadow);
 
 .hero h1 {
     font-family: 'Sacramento', cursive;
-    font-size: 4.5rem;
+    font-size: 4rem;
 }
 .hero h4 {
     font-size:1.6rem ;
@@ -302,7 +302,7 @@ html {
 
 
 /* hp */
-@media(max-width:576px){
+@media(max-width:600px){
     html {
         font-size: 60%;
     }
