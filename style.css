@@ -113,15 +113,17 @@ text-shadow: var(--shadow);
     margin-bottom: 1rem;
     text-shadow: var(--shadow);
     font-weight: bold;
+   
 }
 .home p, rsvp p {
     font-size: 1.1rem;
     color: black;
     font-weight: bold;
+     margin-left:25px;
 }
 
 .home .couple {
-    margin-top: 100px;
+    margin-top: 25px;
 
 }
 
@@ -295,8 +297,8 @@ html {
         font-size: 65%;
     }
     .simply-countdown>.simply-section {
-        padding: 60px;
-        margin: 5px;
+        padding: 40px;
+        margin: 6px;
         }
 
     .mynavbar .nav-link {
@@ -311,7 +313,7 @@ html {
 
 
 /* hp */
-@media(max-width:600px){
+@media(max-width:680px){
     html {
         font-size: 60%;
     }
